@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js",
-    "start": "node index.js"  // Add this line for production start
+    "start": "node index.js" 
   },
   "author": "",
   "license": "ISC",
@@ -19,6 +19,6 @@
     "nodemon": "^3.0.1"
   },
   "engines": {
-    "node": "16.x"  // Specify the Node.js version you want to use
+    "node": "16.x"  
   }
 }
